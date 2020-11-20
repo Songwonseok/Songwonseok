@@ -15,13 +15,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 773 Contributions in the Year 2020
+> 🏆 774 Contributions in the Year 2020
  > 
 > 📦 282.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories
+> 📜 17 Public Repositories
  > 
 > 🔑 4 Private Repositories 
 
@@ -74,7 +74,7 @@ DonNDons                 0 secs              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
+JavaScript               9 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
 Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
