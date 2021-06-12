@@ -13,7 +13,7 @@
 
 > 🏆 385 Contributions in the Year 2021
  > 
-> 📦 356.5 kB Used in Github's Storage 
+> 📦 356.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,5 +65,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2021
+ Last Updated on 12/06/2021
 <!--END_SECTION:waka-->
