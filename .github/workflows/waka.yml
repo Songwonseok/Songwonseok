@@ -17,6 +17,6 @@ jobs:
           SHOW_OS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "False"
         
