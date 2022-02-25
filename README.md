@@ -5,8 +5,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
@@ -81,5 +79,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 09:21:56 UTC
+ Last Updated on 25/02/2022 15:24:29 UTC
 <!--END_SECTION:waka-->
