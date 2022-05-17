@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,5 +77,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2022 15:32:26 UTC
+ Last Updated on 17/05/2022 21:19:14 UTC
 <!--END_SECTION:waka-->
