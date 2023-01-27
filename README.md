@@ -5,17 +5,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 64 Contributions in the Year 2023
+> 🏆 65 Contributions in the Year 2023
  > 
-> 📦 357.5 kB Used in GitHub's Storage 
+> 📦 357.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -68,15 +68,15 @@ docker_study             0 secs              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
 
 
- Last Updated on 27/01/2023 03:14:22 UTC
+ Last Updated on 27/01/2023 09:13:22 UTC
 <!--END_SECTION:waka-->
