@@ -15,8 +15,6 @@
 
 > 📦 358.5 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -78,5 +76,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 03:33:44 UTC
+ Last Updated on 16/06/2024 09:37:34 UTC
 <!--END_SECTION:waka-->
