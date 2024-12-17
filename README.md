@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C202%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C204%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -14,6 +14,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 358.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 121 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -76,5 +78,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 03:54:02 UTC
+ Last Updated on 17/12/2024 09:42:26 UTC
 <!--END_SECTION:waka-->
