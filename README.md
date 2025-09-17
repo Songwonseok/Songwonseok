@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C767%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C767%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,8 +14,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 359.2 kB Used in GitHub's Storage 
- > 
-> 🏆 153 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,5 +76,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 21:36:19 UTC
+ Last Updated on 17/09/2025 03:47:37 UTC
 <!--END_SECTION:waka-->
