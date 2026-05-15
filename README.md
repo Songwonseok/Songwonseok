@@ -5,8 +5,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C108%20hrs%2035%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.83%20million%20lines%20of%20code-blue?style=flat)
@@ -78,5 +76,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 11:38:05 UTC
+ Last Updated on 15/05/2026 17:12:31 UTC
 <!--END_SECTION:waka-->
