@@ -5,8 +5,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C276%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.83%20million%20lines%20of%20code-blue?style=flat)
@@ -48,22 +46,22 @@ Sunday                   238 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
-HTML                     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Java                     3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown                 4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
+HTML                     3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Java                     3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+JavaScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 31 mins      ████████████████████████░   95.46 % 
-IntelliJ IDEA            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Claude Code              13 hrs 49 mins      ████████████████████████░   95.27 % 
+IntelliJ IDEA            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🐱‍💻 Projects: 
-campaign2                5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-campaign2-api            3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-naver                    2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-career                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-mkt-batch                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+campaign2                6 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+campaign2-api            3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+naver                    2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+career                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+mkt-batch                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -79,5 +77,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 11:21:06 UTC
+ Last Updated on 24/07/2026 22:22:01 UTC
 <!--END_SECTION:waka-->
