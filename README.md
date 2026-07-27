@@ -5,7 +5,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C278%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C231%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -66,6 +68,28 @@ career                   57 mins             ██░░░░░░░░░�
 mkt-batch                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 hrs 24 mins (99.26%)
+
+✍️ 1,608 lines written by AI, 2 lines written by hand (99.88% AI-written)
+
+🔤 318,301,504 Input Tokens, 1,305,398 Output Tokens
+
+💵 $1622.41 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 167 AI Prompts
+
+Opus                     1,763 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 521 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
+```
+
 **I Mostly Code in Vue** 
 
 ```text
@@ -79,5 +103,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 12:39:12 UTC
+ Last Updated on 27/07/2026 17:18:22 UTC
 <!--END_SECTION:waka-->
