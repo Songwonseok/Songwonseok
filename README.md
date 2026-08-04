@@ -50,44 +50,44 @@ Sunday                   238 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-JavaScript               3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Markdown                 3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-HTML                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-SQL                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Java                     5 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Markdown                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+JavaScript               3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+HTML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 46 mins      ███████████████████████░░   92.71 % 
-IntelliJ IDEA            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Claude Code              17 hrs 20 mins      ███████████████████████░░   92.44 % 
+IntelliJ IDEA            1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 🐱‍💻 Projects: 
-campaign2                6 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
-campaign2-api            6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.90 % 
-naver                    2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-pay-campaign-2025        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-admin-cpa                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+campaign2-api            7 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
+campaign2                6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
+naver                    2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+cmd_event_admin          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+campaign2-SSR            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 17 mins (95.97%)
+⏱ AI Coding Time: 18 hrs 23 mins (98.07%)
 
-✍️ 3,405 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,970 lines written by AI, 11 lines written by hand (99.72% AI-written)
 
-🔤 368,304,111 Input Tokens, 1,430,192 Output Tokens
+🔤 406,472,059 Input Tokens, 1,528,590 Output Tokens
 
-💵 $1866.79 Estimated AI Cost This Week
+💵 $2050.82 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 206 AI Prompts
+🧠 24 AI Sessions, 246 AI Prompts
 
-Opus                     3,496 lines         █████████████████████████   100.00 % 
+Opus                     4,098 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 622 characters per prompt
+🤖 AI-Driven — 99.72% of written lines came from AI
+📝 Concise Prompter — average 406 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -103,5 +103,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 12:40:45 UTC
+ Last Updated on 04/08/2026 06:06:10 UTC
 <!--END_SECTION:waka-->
