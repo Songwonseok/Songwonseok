@@ -5,10 +5,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2016%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2017%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.83%20million%20lines%20of%20code-blue?style=flat)
@@ -50,44 +46,44 @@ Sunday                   238 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.50 % 
-Markdown                 7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-JavaScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 9 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
+Java                     7 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.89 % 
+JavaScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Properties               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 44 mins      ███████████████████████░░   93.21 % 
-IntelliJ IDEA            1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Claude Code              19 hrs 45 mins      ███████████████████████░░   93.64 % 
+IntelliJ IDEA            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🐱‍💻 Projects: 
-naver                    8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
-campaign2-api            6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
-campaign2                2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-naver_cmd_java           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-campaign2-SSR            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+naver                    9 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+campaign2-api            6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+campaign2                1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+naver_cmd_java           1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+campaign2-SSR            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 34 mins (97.16%)
+⏱ AI Coding Time: 20 hrs 34 mins (97.47%)
 
-✍️ 6,856 lines written by AI, 11 lines written by hand (99.84% AI-written)
+✍️ 13,827 lines written by AI, 14 lines written by hand (99.9% AI-written)
 
-🔤 522,219,843 Input Tokens, 1,593,091 Output Tokens
+🔤 535,424,603 Input Tokens, 1,850,457 Output Tokens
 
-💵 $2634.30 Estimated AI Cost This Week
+💵 $2705.71 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 275 AI Prompts
+🧠 25 AI Sessions, 263 AI Prompts
 
-Opus                     7,203 lines         █████████████████████████   100.00 % 
+Opus                     14,137 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📝 Concise Prompter — average 400 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📝 Concise Prompter — average 406 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -103,5 +99,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 11:39:07 UTC
+ Last Updated on 07/08/2026 01:27:47 UTC
 <!--END_SECTION:waka-->
