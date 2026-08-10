@@ -50,44 +50,44 @@ Sunday                   238 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
-Java                     7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.64 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Properties               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Markdown                 6 hrs 1 min         ████████████░░░░░░░░░░░░░   47.97 % 
+Java                     6 hrs               ████████████░░░░░░░░░░░░░   47.81 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 58 mins      ███████████████████████░░   93.22 % 
-IntelliJ IDEA            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Claude Code              12 hrs              ████████████████████████░   95.60 % 
+IntelliJ IDEA            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🐱‍💻 Projects: 
-naver                    7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
-campaign2-api            5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-naver_cmd_java           1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-campaign2                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-campaign2-SSR            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+naver                    6 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.78 % 
+campaign2-api            3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+naver_cmd_java           1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+mkt-batch                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+campaign2                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 45 mins (97.76%)
+⏱ AI Coding Time: 12 hrs 14 mins (97.52%)
 
-✍️ 11,295 lines written by AI, 55 lines written by hand (99.52% AI-written)
+✍️ 10,221 lines written by AI, 44 lines written by hand (99.57% AI-written)
 
-🔤 460,898,146 Input Tokens, 1,395,354 Output Tokens
+🔤 402,271,460 Input Tokens, 1,140,816 Output Tokens
 
-💵 $2324.11 Estimated AI Cost This Week
+💵 $2034.12 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 215 AI Prompts
+🧠 13 AI Sessions, 156 AI Prompts
 
-Opus                     11,604 lines        █████████████████████████   100.00 % 
+Opus                     10,491 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.52% of written lines came from AI
-📝 Concise Prompter — average 364 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🤖 AI-Driven — 99.57% of written lines came from AI
+📝 Concise Prompter — average 407 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -103,5 +103,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 16:18:57 UTC
+ Last Updated on 10/08/2026 21:59:12 UTC
 <!--END_SECTION:waka-->
