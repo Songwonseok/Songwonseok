@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2017%20mins-blue?style=flat)
 
@@ -50,20 +50,22 @@ Sunday                   238 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 mins              ███████████████████░░░░░░   74.04 % 
-JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Java Properties          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Properties               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript               18 mins             ██████████████████░░░░░░░   70.81 % 
+Java                     7 mins              ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
+PhpStorm                 17 mins             █████████████████░░░░░░░░   68.83 % 
+IntelliJ IDEA            8 mins              ████████░░░░░░░░░░░░░░░░░   31.17 % 
 
 🐱‍💻 Projects: 
-naver_cmd_java           2 mins              ████████████████░░░░░░░░░   65.83 % 
-campaign2-api            0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-campaign2                0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-mkt-batch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+LightEditProject         17 mins             █████████████████░░░░░░░░   68.83 % 
+campaign2-api            7 mins              ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+campaign2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+mkt-batch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +87,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 16:20:52 UTC
+ Last Updated on 13/08/2026 22:04:33 UTC
 <!--END_SECTION:waka-->
