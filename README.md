@@ -50,21 +50,21 @@ Sunday                   238 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               18 mins             ██████████████████░░░░░░░   70.81 % 
-Java                     7 mins              ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+JavaScript               18 mins             ██████████████████░░░░░░░   70.65 % 
+Java                     7 mins              ███████░░░░░░░░░░░░░░░░░░   26.99 % 
 Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-PhpStorm                 17 mins             █████████████████░░░░░░░░   68.83 % 
-IntelliJ IDEA            8 mins              ████████░░░░░░░░░░░░░░░░░   31.17 % 
+PhpStorm                 17 mins             █████████████████░░░░░░░░   68.68 % 
+IntelliJ IDEA            8 mins              ████████░░░░░░░░░░░░░░░░░   31.32 % 
 
 🐱‍💻 Projects: 
-LightEditProject         17 mins             █████████████████░░░░░░░░   68.83 % 
-campaign2-api            7 mins              ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-campaign2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+LightEditProject         17 mins             █████████████████░░░░░░░░   68.68 % 
+campaign2-api            7 mins              ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+campaign2                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 mkt-batch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
@@ -87,5 +87,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 16:06:45 UTC
+ Last Updated on 14/08/2026 21:42:57 UTC
 <!--END_SECTION:waka-->
