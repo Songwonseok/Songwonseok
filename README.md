@@ -15,9 +15,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 360.4 kB Used in GitHub's Storage 
+> 📦 360.5 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2026
+> 🏆 71 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                811 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-🌆 Daytime                2486 commits        ███████████░░░░░░░░░░░░░░   45.94 % 
-🌃 Evening                1636 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  478 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+🌞 Morning                811 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+🌆 Daytime                2486 commits        ███████████░░░░░░░░░░░░░░   45.85 % 
+🌃 Evening                1645 commits        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+🌙 Night                  480 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1057 commits        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Tuesday                  1534 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Wednesday                912 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Thursday                 610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Friday                   923 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Saturday                 127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Sunday                   248 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Monday                   1066 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Tuesday                  1536 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Wednesday                912 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Thursday                 610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Friday                   923 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Saturday                 127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Sunday                   248 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
@@ -50,22 +50,22 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               18 mins             ██████████████████░░░░░░░   70.65 % 
-Java                     7 mins              ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               18 mins             ██████████████████░░░░░░░   73.13 % 
+Java                     6 mins              ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 17 mins             █████████████████░░░░░░░░   68.68 % 
-IntelliJ IDEA            8 mins              ████████░░░░░░░░░░░░░░░░░   31.32 % 
+PhpStorm                 17 mins             ██████████████████░░░░░░░   71.08 % 
+IntelliJ IDEA            7 mins              ███████░░░░░░░░░░░░░░░░░░   28.92 % 
 
 🐱‍💻 Projects: 
-LightEditProject         17 mins             █████████████████░░░░░░░░   68.68 % 
-campaign2-api            7 mins              ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-campaign2                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-mkt-batch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+LightEditProject         17 mins             ██████████████████░░░░░░░   71.08 % 
+campaign2-api            6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+campaign2                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+mkt-batch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +87,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 09:56:53 UTC
+ Last Updated on 17/08/2026 21:40:59 UTC
 <!--END_SECTION:waka-->
