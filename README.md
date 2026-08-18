@@ -50,22 +50,21 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               18 mins             ██████████████████░░░░░░░   73.13 % 
-Java                     6 mins              ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+JavaScript               17 mins             ██████████████████░░░░░░░   72.44 % 
+Java                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.33 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 17 mins             ██████████████████░░░░░░░   71.08 % 
-IntelliJ IDEA            7 mins              ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+PhpStorm                 17 mins             ██████████████████░░░░░░░   72.36 % 
+IntelliJ IDEA            6 mins              ███████░░░░░░░░░░░░░░░░░░   27.64 % 
 
 🐱‍💻 Projects: 
-LightEditProject         17 mins             ██████████████████░░░░░░░   71.08 % 
-campaign2-api            6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-campaign2                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-mkt-batch                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+LightEditProject         17 mins             ██████████████████░░░░░░░   72.36 % 
+campaign2-api            6 mins              ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+campaign2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +86,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 15:47:52 UTC
+ Last Updated on 18/08/2026 21:40:01 UTC
 <!--END_SECTION:waka-->
