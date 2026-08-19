@@ -50,21 +50,19 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 mins             ██████████████████░░░░░░░   72.44 % 
-Java                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               17 mins             ██████████████████░░░░░░░   72.83 % 
+Java                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.06 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 17 mins             ██████████████████░░░░░░░   72.36 % 
-IntelliJ IDEA            6 mins              ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+PhpStorm                 17 mins             ██████████████████░░░░░░░   72.83 % 
+IntelliJ IDEA            6 mins              ███████░░░░░░░░░░░░░░░░░░   27.17 % 
 
 🐱‍💻 Projects: 
-LightEditProject         17 mins             ██████████████████░░░░░░░   72.36 % 
-campaign2-api            6 mins              ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-naver_cmd_java           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-campaign2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+LightEditProject         17 mins             ██████████████████░░░░░░░   72.83 % 
+campaign2-api            6 mins              ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+campaign2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,5 +84,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 15:49:29 UTC
+ Last Updated on 19/08/2026 21:45:33 UTC
 <!--END_SECTION:waka-->
