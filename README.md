@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2017%20mins-blue?style=flat)
 
@@ -50,19 +50,19 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 mins              ██████████████████████░░░   86.08 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Java                     3 mins              ███████████████████░░░░░░   76.59 % 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campaign2-api            2 mins              ███████████████████████░░   90.11 % 
-admin-cpa                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-campaign2                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+campaign2-api            3 mins              ████████████████████░░░░░   78.95 % 
+campaign2                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+admin-cpa                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +84,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 16:03:32 UTC
+ Last Updated on 25/08/2026 21:45:54 UTC
 <!--END_SECTION:waka-->
