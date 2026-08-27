@@ -5,7 +5,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C257%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2017%20mins-blue?style=flat)
 
@@ -50,19 +50,19 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 mins              ███████████████████░░░░░░   76.59 % 
-HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java                     3 mins              ████████████████████░░░░░   78.73 % 
+HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
 IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campaign2-api            3 mins              ████████████████████░░░░░   78.95 % 
-campaign2                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-admin-cpa                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+campaign2-api            3 mins              ████████████████████░░░░░   80.87 % 
+campaign2                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+admin-cpa                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +84,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 16:41:06 UTC
+ Last Updated on 27/08/2026 00:48:13 UTC
 <!--END_SECTION:waka-->
