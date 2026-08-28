@@ -50,19 +50,19 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 mins              ████████████████████░░░░░   78.73 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Java                     1 min               ██████████████████████░░░   89.00 % 
+JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campaign2-api            3 mins              ████████████████████░░░░░   80.87 % 
-campaign2                0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-admin-cpa                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+campaign2-api            1 min               ██████████████████████░░░   88.99 % 
+admin-cpa                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+campaign2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +84,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 13:55:25 UTC
+ Last Updated on 28/08/2026 00:38:36 UTC
 <!--END_SECTION:waka-->
