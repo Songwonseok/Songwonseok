@@ -50,18 +50,16 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              ███████████████████████░░   91.25 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Java                     0 secs              ███████████████░░░░░░░░░░   60.10 % 
+HTML                     0 secs              ████████░░░░░░░░░░░░░░░░░   32.02 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
 IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campaign2-api            0 secs              ███████████████████████░░   93.05 % 
-campaign2                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+campaign2-api            0 secs              ███████████████░░░░░░░░░░   60.10 % 
+campaign2                0 secs              ██████████░░░░░░░░░░░░░░░   39.90 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,5 +81,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 18:31:20 UTC
+ Last Updated on 11/09/2026 23:18:15 UTC
 <!--END_SECTION:waka-->
