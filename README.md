@@ -50,15 +50,13 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     0 secs              ████████████████░░░░░░░░░   63.72 % 
-Java                     0 secs              █████████░░░░░░░░░░░░░░░░   36.28 % 
+HTML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-campaign2                0 secs              ████████████████░░░░░░░░░   63.72 % 
-campaign2-api            0 secs              █████████░░░░░░░░░░░░░░░░   36.28 % 
+campaign2                0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +78,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 10:02:46 UTC
+ Last Updated on 07/10/2026 20:49:18 UTC
 <!--END_SECTION:waka-->
