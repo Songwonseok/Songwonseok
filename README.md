@@ -50,14 +50,13 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   98.39 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-naver_cmd_java           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +78,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 09:37:29 UTC
+ Last Updated on 28/10/2026 20:29:09 UTC
 <!--END_SECTION:waka-->
