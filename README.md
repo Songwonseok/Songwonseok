@@ -50,13 +50,20 @@ Sunday                   248 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████░░░░░░░░   67.87 % 
+HTML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+campaign2-api            0 secs              ███████████████░░░░░░░░░░   58.28 % 
+campaign2                0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+naver_cmd_java           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+admin-cpa                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +85,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 09:37:00 UTC
+ Last Updated on 29/10/2026 20:26:10 UTC
 <!--END_SECTION:waka-->
